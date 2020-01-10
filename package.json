@@ -1,0 +1,24 @@
+{
+  "name": "werewolf-discord-bot",
+  "version": "0.0.1",
+  "description": "A package for meeting our needs for running games of werewolf.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "werewolf",
+    "discord",
+    "bot"
+  ],
+  "author": "Daniel Richmond",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "commitlint": "^8.3.4",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0"
+  }
+}
